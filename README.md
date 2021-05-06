@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chrisrabenco@gmail.com
 - ⚡ Fun fact: i write short stories with suspense !!!
 -->
+![carte_visite_15](https://user-images.githubusercontent.com/71134226/117302241-b40ea080-ae7b-11eb-89d6-b5dcab1affe4.gif)
