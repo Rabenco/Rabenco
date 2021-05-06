@@ -1,5 +1,6 @@
-# 👋
+# Bonjour cher visiteur 👋
 
+## 🤝[Linkedin](https://www.linkedin.com/in/christelle-troussard/) - 📧 [Mail](chrisrabenco@gmail.com) - 🌐[Site rabenco-datasciences](www.rabenco-datasciences.fr) 
 <!--
 **Rabenco/Rabenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i write short stories with suspense !!!
 -->
 ## Bienvenue sur le github de Rabenco-datasciences
-![carte_visite_15](https://user-images.githubusercontent.com/71134226/117302241-b40ea080-ae7b-11eb-89d6-b5dcab1affe4.gif)
+![bannière_rabenco](https://user-images.githubusercontent.com/71134226/117308676-11a5eb80-ae82-11eb-8dad-94a241362229.gif)
+
+Vous disposez de __données brutes__ et vous souhaitez les transformer en __informations intelligibles et exploitables__ pour votre entreprise? 
+Rabenco vous accompagne jusqu'à l'enrichissement de vos données pour les __valoriser__ et répondre à des problématiques complexes.
+
+![bannière_rabenco_2](https://user-images.githubusercontent.com/71134226/117308718-18ccf980-ae82-11eb-86e2-ce0465d4c862.gif)
+
 
 - 🔭 I’m currently working on data sciences
 - 🌱 I’m currently learning EVERYTHING!!
@@ -24,5 +31,3 @@ Here are some ideas to get you started:
 - 📫 [link to Linkedin!](https://www.linkedin.com/in/christelle-troussard/)
 - ⚡ Fun fact: i write short stories with suspense...
 
-
-![Logo_linkedin](https://user-images.githubusercontent.com/71134226/117304578-30a27e80-ae7e-11eb-828e-e9922c4171bf.png)
